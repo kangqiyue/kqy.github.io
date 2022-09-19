@@ -17,30 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Qi-Yue Kang received his B.S. and Ph.D. degrees in chemistry and environmental geography from China Agricultural University, and Peking University, in 2016 and 2021, respectively. He is a postdoctoral fellow in the School of Engineering, Westlake University. His current research interests include prediction of molecular properties， protein variation effects, and Natural Language Processing (NLP).
 
 
-# 🔥 News
+Google scholar  <a href='https://scholar.google.com/citations?user=TRzciAEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+Reasearch Gate <a href='https://www.researchgate.net/profile/Qiyue-Kang'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div>
+<!-- <div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
+<!-- <div class='paper-box-text' markdown="1"> -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+* **Kang, Q.**, Gao, F., Zhang, X., Wang, L., Liu, J., Fu, M., Zhang, S., Wan, Y., Shen, H., Hu, J. Nontargeted identification of per- and polyfluoroalkyl substances in human follicular fluid and their blood-follicle transfer. _Environ. Int_. **2020**, _139_, 105686.
+* **Kang, Q.**, Li, Q., Wang, L., Jia, Y., Zhang, X., Hu, J. Y. Comment on “Suspect and nontarget screening of per- and polyfluoroalkyl substances in wastewater from a fluorochemical manufacturing park”, _Environ. Sci. Technol_. **2021**, _55_, 5589–5592.
+* Hu, W.#, **Kang, Q.#**, Zhang, C., Ma, H., Xu, C., Wan, Y., Hu, J., 2020. Triphenyl phosphate modulated saturation of phospholipids: Induction of endoplasmic reticulum stress and inflammation. Environ. Pollut. 2020, 263, 114474.
+* Zhang, S., **Kang, Q.**, Peng, H., Ding, M., Zhao, F., Zhou, Y., Dong, Z., Zhang, H., Yang, M., Tao, S., Hu, J. Relationship between perfluorooctanoate and perfluorooctane sulfonate blood concentrations in the general population and routine drinking water exposure. Environ. Int. 2019, 126, 54-60.
+* Wang, L., **Kang, Q.**, Jia, Y., Li, X., Hu, J. Identification of three novel chloroalkyl organophosphate triesters in house dust using halogenation-guided nontarget screening combined with suspect screening. Environ. Sci. Technol. 2021, 55, 2482-2490. 
+* Li, Y., **Kang, Q.**, Chen, R., He, J., Liu, L., Wang, L., Hu, J. 2-Ethylhexyl diphenyl phosphate and its hydroxylated metabolites are Anti-androgenic and cause adverse reproductive outcomes in male Japanese medaka. Environ. Sci. Technol. 2020, 54, 8919-8925. 
+* Ding, M., **Kang, Q.**, Zhang, S., Zhao, F., Mu, D., Zhang, H., Yang, M., Hu, J. Contribution of phthalates and phthalate monoesters from drinking water to daily intakes for the general population. Chemosphere. 2019, 229, 125-131.
+* Hu, W., Jia, Y., **Kang, Q.**, Peng, H., Ma, H., Zhang, S., Hiromori, Y., Kimura, T., Nakanishi, T., Zheng, L., Qiu, Y., Zhang, Z., Wan, Y., Hu, J. Screening of house dust from Chinese homes for chemicals with Liver X Receptors binding activities and characterization of atherosclerotic activity using an in vitro macrophage cell line and ApoE-/- mice. Environ. Health. Perspect. 2019, 127, 117003.
+* Wang, L., Jia, Y., **Kang, Q.**, Song, W., Hu, J. Nontarget discovery of 11 aryl organophosphate triesters in house dust using high-resolution mass spectrometry. Environ. Sci. Technol. 2020, 54(18), 11376-11385
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
