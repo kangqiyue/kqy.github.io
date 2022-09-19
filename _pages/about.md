@@ -20,9 +20,9 @@ redirect_from:
 Qi-Yue Kang received his B.S. and Ph.D. degrees in chemistry and environmental geography from China Agricultural University, and Peking University, in 2016 and 2021, respectively. He is a postdoctoral fellow in the School of Engineering, Westlake University. His current research interests include prediction of molecular properties， protein variation effects, and Natural Language Processing (NLP).
 
 
-Google scholar  <a href='https://scholar.google.com/citations?user=TRzciAEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Google scholar  <a href='https://scholar.google.com/citations?user=TRzciAEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google scholar"></a>).
 
-Reasearch Gate <a href='https://www.researchgate.net/profile/Qiyue-Kang'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Reasearch Gate <a href='https://www.researchgate.net/profile/Qiyue-Kang'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Reasearch Gate"></a>).
 
 
 [comment]: <> (# 🔥 News)
