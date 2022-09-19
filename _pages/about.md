@@ -25,18 +25,14 @@ Google scholar  <a href='https://scholar.google.com/citations?user=TRzciAEAAAAJ&
 Reasearch Gate <a href='https://www.researchgate.net/profile/Qiyue-Kang'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+[comment]: <> (# 🔥 News)
+
+[comment]: <> (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[comment]: <> (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
-<!-- <div class='paper-box-text' markdown="1"> -->
-
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 * **Kang, Q.**, Gao, F., Zhang, X., Wang, L., Liu, J., Fu, M., Zhang, S., Wan, Y., Shen, H., Hu, J. Nontargeted identification of per- and polyfluoroalkyl substances in human follicular fluid and their blood-follicle transfer. _Environ. Int_. **2020**, _139_, 105686.
 * **Kang, Q.**, Li, Q., Wang, L., Jia, Y., Zhang, X., Hu, J. Y. Comment on “Suspect and nontarget screening of per- and polyfluoroalkyl substances in wastewater from a fluorochemical manufacturing park”, _Environ. Sci. Technol_. **2021**, _55_, 5589–5592.
 * Hu, W.#, **Kang, Q.#**, Zhang, C., Ma, H., Xu, C., Wan, Y., Hu, J., 2020. Triphenyl phosphate modulated saturation of phospholipids: Induction of endoplasmic reticulum stress and inflammation. Environ. Pollut. 2020, 263, 114474.
@@ -48,23 +44,20 @@ Reasearch Gate <a href='https://www.researchgate.net/profile/Qiyue-Kang'><img sr
 * Wang, L., Jia, Y., **Kang, Q.**, Song, W., Hu, J. Nontarget discovery of 11 aryl organophosphate triesters in house dust using high-resolution mass spectrometry. Environ. Sci. Technol. 2020, 54(18), 11376-11385
 
 
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
