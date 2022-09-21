@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Qi-Yue Kang received his B.S. and Ph.D. degrees in chemistry and environmental geography from China Agricultural University, and Peking University, in 2016 and 2021, respectively. He is a postdoctoral fellow in the School of Engineering, Westlake University. His current research interests include prediction of molecular properties， protein variation effects, and Natural Language Processing (NLP).
+Qi-Yue Kang received his B.S. degree in chemistry from China Agricultural University in 2016. He received his Ph.D. degree in environmental geography from Peking University in 2021. His thesis was directed by Prof. Jianying Hu ([homepage](http://oause.pku.edu.cn/szdw/personal/hjy/)). The thesis is mainly about the nontarget analysis of Per- and polyﬂuoroalkyl substances (PFASs), a large kind of environmental pollutes. Using Liquid Chromatography-High Resolution Mass Spectrometry (LC-HRMS), the thesis developed a nontarget data-processing method, which merged diagnostic fragment ion and diagnostic neutral loss in data-independent acquisition (DIA) mode. Using the developed method, the study identified lots of legacy and emerging PFASs. In addition, he conducted a large-scale environmental epidemiology study of PFASs, which revealed the potential health effects of PFAS on female reproduction.
+
+After graduation, he joined the Deep Learning Lab (DLL, [homepage](https://dll-wu.github.io/)), and became a postdoctoral fellow at Westlake University, Hangzhou, China. His supervisor is Zhenzhong Lan. His current research interests include multiple fields. He first developed a Graph Neural Network (GNN) to predict the small molecule retention time, which showed competitive captivity compared to the models in the literature. In addition, he worked on the \pPrediction of protein mutational effects using the pre-trained language model and graph neural network. Furthermore, he is working on some problems of Natural Language Processing (NLP), which involve multitask learning of NLP.
 
 
 Google scholar  <a href='https://scholar.google.com/citations?user=TRzciAEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google scholar"></a>).
@@ -45,19 +47,24 @@ Reasearch Gate <a href='https://www.researchgate.net/profile/Qiyue-Kang'><img sr
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.7* Outstanding Graduate at Peking University
+- *2020.9* National Scholarship at Peking University.
+- *2019.9* Guangyao Wanglaoji Scholarship at Peking University.
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.8 - 2022.9 (now)*, PosDoc at Deep Learning Lab (DLL), School of Engineering, Westlake University, Hangzhou, China. 
+- *2016.9 - 2021.7*, PhD student at College of Urban and Environmental Sciences, Peking University, Beijing, China.
+- *2012.9 - 2016.7*, Undergraduate at China Agricultural University, Beijing, China.
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[comment]: <> (# 💬 Invited Talks)
+
+[comment]: <> (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[comment]: <> (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+[comment]: <> (# 💻 Internships)
+
+[comment]: <> (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
