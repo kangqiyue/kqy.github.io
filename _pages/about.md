@@ -35,25 +35,26 @@ Reasearch Gate <a href='https://www.researchgate.net/profile/Qiyue-Kang'><img sr
 
 # 📝 Publications 
 
-* **Kang, Q.**, Gao, F., Zhang, X., Wang, L., Liu, J., Fu, M., Zhang, S., Wan, Y., Shen, H., Hu, J. Nontargeted identification of per- and polyfluoroalkyl substances in human follicular fluid and their blood-follicle transfer. _Environ. Int_. **2020**, _139_, 105686.
-* **Kang, Q.**, Li, Q., Wang, L., Jia, Y., Zhang, X., Hu, J. Y. Comment on “Suspect and nontarget screening of per- and polyfluoroalkyl substances in wastewater from a fluorochemical manufacturing park”, _Environ. Sci. Technol_. **2021**, _55_, 5589–5592.
-* Hu, W.#, **Kang, Q.#**, Zhang, C., Ma, H., Xu, C., Wan, Y., Hu, J., 2020. Triphenyl phosphate modulated saturation of phospholipids: Induction of endoplasmic reticulum stress and inflammation. Environ. Pollut. 2020, 263, 114474.
-* Zhang, S., **Kang, Q.**, Peng, H., Ding, M., Zhao, F., Zhou, Y., Dong, Z., Zhang, H., Yang, M., Tao, S., Hu, J. Relationship between perfluorooctanoate and perfluorooctane sulfonate blood concentrations in the general population and routine drinking water exposure. Environ. Int. 2019, 126, 54-60.
+* **Kang, Q.**, Gao, F., Zhang, X., Wang, L., Liu, J., Fu, M., Zhang, S., Wan, Y., Shen, H., Hu, J. Nontargeted identification of per- and polyfluoroalkyl substances in human follicular fluid and their blood-follicle transfer. [_Environ. Int_. **2020**, _139_, 105686.](https://www.sciencedirect.com/science/article/pii/S0160412019347439)
+* **Kang, Q.**, Li, Q., Wang, L., Jia, Y., Zhang, X., Hu, J. Y. Comment on “Suspect and nontarget screening of per- and polyfluoroalkyl substances in wastewater from a fluorochemical manufacturing park”, [_Environ. Sci. Technol_. **2021**, _55_, 5589–5592.](https://pubs.acs.org/doi/10.1021/acs.est.0c06917)
+* Hu, W.#, **Kang, Q.#**, Zhang, C., Ma, H., Xu, C., Wan, Y., Hu, J., 2020. Triphenyl phosphate modulated saturation of phospholipids: Induction of endoplasmic reticulum stress and inflammation. [_Environ. Pollut_. **2020**, _263_, 114474.](https://www.sciencedirect.com/science/article/pii/S0269749119374147)
+* Zhang, S., **Kang, Q.**, Peng, H., Ding, M., Zhao, F., Zhou, Y., Dong, Z., Zhang, H., Yang, M., Tao, S., Hu, J. Relationship between perfluorooctanoate and perfluorooctane sulfonate blood concentrations in the general population and routine drinking water exposure. [_Environ. Int._ **2019**, _126_, 54-60.](https://www.sciencedirect.com/science/article/pii/S0160412018317392)
 * Wang, L., **Kang, Q.**, Jia, Y., Li, X., Hu, J. Identification of three novel chloroalkyl organophosphate triesters in house dust using halogenation-guided nontarget screening combined with suspect screening. Environ. Sci. Technol. 2021, 55, 2482-2490. 
 * Li, Y., **Kang, Q.**, Chen, R., He, J., Liu, L., Wang, L., Hu, J. 2-Ethylhexyl diphenyl phosphate and its hydroxylated metabolites are Anti-androgenic and cause adverse reproductive outcomes in male Japanese medaka. Environ. Sci. Technol. 2020, 54, 8919-8925. 
 * Ding, M., **Kang, Q.**, Zhang, S., Zhao, F., Mu, D., Zhang, H., Yang, M., Hu, J. Contribution of phthalates and phthalate monoesters from drinking water to daily intakes for the general population. Chemosphere. 2019, 229, 125-131.
 * Hu, W., Jia, Y., **Kang, Q.**, Peng, H., Ma, H., Zhang, S., Hiromori, Y., Kimura, T., Nakanishi, T., Zheng, L., Qiu, Y., Zhang, Z., Wan, Y., Hu, J. Screening of house dust from Chinese homes for chemicals with Liver X Receptors binding activities and characterization of atherosclerotic activity using an in vitro macrophage cell line and ApoE-/- mice. Environ. Health. Perspect. 2019, 127, 117003.
-* Wang, L., Jia, Y., **Kang, Q.**, Song, W., Hu, J. Nontarget discovery of 11 aryl organophosphate triesters in house dust using high-resolution mass spectrometry. Environ. Sci. Technol. 2020, 54(18), 11376-11385
+* Wang, L., Jia, Y., **Kang, Q.**, Song, W., Hu, J. Nontarget discovery of 11 aryl organophosphate triesters in house dust using high-resolution mass spectrometry. Environ. Sci. Technol. 2020, 54, 11376-11385
 
 
 # 🎖 Honors and Awards
 - *2021.7* Outstanding Graduate at Peking University
 - *2020.9* National Scholarship at Peking University.
 - *2019.9* Guangyao Wanglaoji Scholarship at Peking University.
+- *2018.9* Academic Excellence Award at Peking University
 
 
 # 📖 Educations
-- *2021.8 - 2022.9 (now)*, PosDoc at Deep Learning Lab (DLL), School of Engineering, Westlake University, Hangzhou, China. 
+- *2021.8 - now*, PosDoc at Deep Learning Lab (DLL), School of Engineering, Westlake University, Hangzhou, China. 
 - *2016.9 - 2021.7*, PhD student at College of Urban and Environmental Sciences, Peking University, Beijing, China.
 - *2012.9 - 2016.7*, Undergraduate at China Agricultural University, Beijing, China.
 
