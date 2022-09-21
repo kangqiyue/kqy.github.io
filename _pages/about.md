@@ -58,6 +58,13 @@ Reasearch Gate <a href='https://www.researchgate.net/profile/Qiyue-Kang'><img sr
 - *2016.9 - 2021.7*, PhD student at College of Urban and Environmental Sciences, Peking University, Beijing, China.
 - *2012.9 - 2016.7*, Undergraduate at China Agricultural University, Beijing, China.
 
+# 💬 Other Links:
+- [Markdown syntax](https://www.markdownguide.org/basic-syntax/#overview)
+- [Missing semester](https://missing-semester-cn.github.io/)
+- [Bash and linux basic](https://github.com/kangqiyue/Pocket/tree/master/Tools)
+- [Python blog](https://www.zhihu.com/column/c_1248909568157335552)
+- [R blog](https://www.zhihu.com/column/Alex-learning)
+
 
 [comment]: <> (# 💬 Invited Talks)
 
