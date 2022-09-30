@@ -64,6 +64,7 @@ Reasearch Gate <a href='https://www.researchgate.net/profile/Qiyue-Kang'><img sr
 - [Bash and linux basic](https://github.com/kangqiyue/Pocket/tree/master/Tools)
 - [Python blog](https://www.zhihu.com/column/c_1248909568157335552)
 - [R blog](https://www.zhihu.com/column/Alex-learning)
+- [d2l, yyds](https://zh-v2.d2l.ai/index.html)
 
 
 [comment]: <> (# 💬 Invited Talks)
