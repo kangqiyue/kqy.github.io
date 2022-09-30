@@ -22,9 +22,9 @@ Qiyue Kang is a postdoctoral fellow at the Deep Learning Lab (DLL, [homepage](ht
 
 Before that, Qiyue Kang received his B.S. degree in chemistry from China Agricultural University in 2016. He received his Ph.D. degree in environmental geography from Peking University in 2021. His thesis was directed by Prof. Jianying Hu ([homepage](http://oause.pku.edu.cn/szdw/personal/hjy/)). The thesis is mainly about the nontarget analysis of Per- and polyﬂuoroalkyl substances (PFASs) and their health effects on female reproduction. PFASs are a large kind of environmental pollutes and widely used in multiple fields. His study developed a nontarget data-processing method, which merged diagnostic fragment ion and diagnostic neutral loss in data-independent acquisition (DIA) mode for the data obtained from Liquid Chromatography-High Resolution Mass Spectrometry (LC-HRMS). Using the developed method, the study identified lots of legacy and emerging PFASs. In addition, he conducted a large-scale environmental epidemiology study of PFASs, which revealed the potential health effects of PFAS on female reproduction.
 
-Google scholar  <a href='https://scholar.google.com/citations?user=TRzciAEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google scholar"></a>).
+[comment]: <> (Google scholar  <a href='https://scholar.google.com/citations?user=TRzciAEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google scholar"></a>&#41;.)
 
-Reasearch Gate <a href='https://www.researchgate.net/profile/Qiyue-Kang'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Reasearch Gate"></a>).
+[comment]: <> (Reasearch Gate <a href='https://www.researchgate.net/profile/Qiyue-Kang'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Reasearch Gate"></a>&#41;.)
 
 
 [comment]: <> (# 🔥 News)
