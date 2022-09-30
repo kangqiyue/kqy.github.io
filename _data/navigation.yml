@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Website Template"
-    url: "/docs/README-zh.md"
+    url: "docs/README-zh.md"
 
 #  - title: "News"
 #    url: "/#-news"
