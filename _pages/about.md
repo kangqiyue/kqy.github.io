@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About
-Qiyue Kang is research engineer at Xihu Xinchen company at Hangzhou, China. His current research interests include how to train a large langeuage model (LLM), using supervised finetuning(SFT), and Reinforcement Learning (PPO). In addition, he also focuses on evaluating LLM, and accelerating the LLM inference. The main goal is to build a better Chinese LLM.
+Qiyue Kang is a research engineer at Xihu Xinchen company at Hangzhou, China. His current research interests include how to train a large langeuage model (LLM), using supervised finetuning(SFT), and Reinforcement Learning (PPO). In addition, he also focuses on evaluating LLM, and accelerating the LLM inference. The main goal is to build a better Chinese LLM.
 
 
 Before that, Qiyue Kang is a postdoctoral fellow at the Deep Learning Lab (DLL, [homepage](https://dll-wu.github.io/)), Westlake University, Hangzhou, China. His supervisor is Prof. Zhenzhong Lan. After joining the DLL, he first developed a Graph Neural Network (GNN) to predict the small molecule retention time, which showed competitive capability compared to the models in the literature. In addition, he worked on the prediction of protein mutational effects using the pre-trained language model and graph neural network. Furthermore, he is working on some problems of Natural Language Processing (NLP), which involve multitask learning of NLP, and LLM SFT finetuning.
