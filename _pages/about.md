@@ -38,7 +38,7 @@ Qiyue Kang received his B.S. degree in chemistry from China Agricultural Univers
 
 # 📝 Publications 
 
-* **Kang, Qiyue**, Fang, Pengfei, Zhang, Shuai, Qiu, Huachuan, Lan, Zhenzhong.  Deep graph convolutional network for small-molecule retention time prediction. In submission. [Github Repo](https://github.com/kangqiyue/DeepGCN-RT)
+* **Kang, Q.**; Fang, P.; Zhang, S.; Qiu, H.; Lan, Z. Deep Graph Convolutional Network for Small-Molecule Retention Time Prediction. Journal of Chromatography A. 2023, 464439, ISSN 0021-9673. Article url: https://authors.elsevier.com/a/1hy7U4-ggV0Qt (https://doi.org/10.1016/j.chroma.2023.464439.)
 * **Kang, Q.**, Gao, F., Zhang, X., Wang, L., Liu, J., Fu, M., Zhang, S., Wan, Y., Shen, H., Hu, J. Nontargeted identification of per- and polyfluoroalkyl substances in human follicular fluid and their blood-follicle transfer. [_Environ. Int_. **2020**, _139_, 105686.](https://www.sciencedirect.com/science/article/pii/S0160412019347439)
 * **Kang, Q.**, Li, Q., Wang, L., Jia, Y., Zhang, X., Hu, J. Y. Comment on “Suspect and nontarget screening of per- and polyfluoroalkyl substances in wastewater from a fluorochemical manufacturing park”, [_Environ. Sci. Technol_. **2021**, _55_, 5589–5592.](https://pubs.acs.org/articlesonrequest/AOR-3MC3GS3PWYEJGIY5BCVB)
 * Hu, W.#, **Kang, Q.#**, Zhang, C., Ma, H., Xu, C., Wan, Y., Hu, J., 2020. Triphenyl phosphate modulated saturation of phospholipids: Induction of endoplasmic reticulum stress and inflammation. [_Environ. Pollut_. **2020**, _263_, 114474.](https://www.sciencedirect.com/science/article/pii/S0269749119374147)
